@@ -1,0 +1,4 @@
+[Bookmarks]
+[Recent]
+/home/pi/
+/home/pi/NetworkBlender/
